@@ -66,6 +66,3 @@ CTFd/uploads
 
 # Vagrant
 .vagrant
-
-# CTFd Exports
-*.zip
